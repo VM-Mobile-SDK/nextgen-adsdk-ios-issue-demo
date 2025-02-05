@@ -1,0 +1,15 @@
+{
+  "originHash" : "43a7fc3c44eec103435f01b9e2fc79cbd3dd1ab5afa061be7d92dca35ecce669",
+  "pins" : [
+    {
+      "identity" : "nextgen-adsdk-ios-release",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VM-Mobile-SDK/nextgen-adsdk-ios-release",
+      "state" : {
+        "revision" : "5c291407360ccaa2a58199182a2231bff8d1812b",
+        "version" : "6.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
